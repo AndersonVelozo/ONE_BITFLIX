@@ -8,6 +8,6 @@ Category.hasMany(Course)
 Course.belongsTo(Category)
 
 export {
-  Course,
-  Category
+  Category,
+  Course
 }
